@@ -1,2 +1,2 @@
-# Hope-Bot
+# Hopez-Bot
 A new Bot
